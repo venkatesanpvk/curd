@@ -1,0 +1,11 @@
+.icons{
+	background-color: transparent;
+	font-size: 30px;
+	color: red;
+	display:inline-block;
+	margin: 0px;
+	outline:none;
+}
+#edit-color{
+	color:#87bf17;
+}
